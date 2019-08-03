@@ -17,3 +17,12 @@ E:\Projects\ChuanKou2\ChuanKou2\obj\Debug\ChuanKou2.Properties.Resources.resourc
 E:\Projects\ChuanKou2\ChuanKou2\obj\Debug\ChuanKou2.csproj.GenerateResource.Cache
 E:\Projects\ChuanKou2\ChuanKou2\bin\Debug\ChuanKou2.exe
 E:\Projects\ChuanKou2\ChuanKou2\bin\Debug\ChuanKou2.pdb
+E:\Projects\Temperature\ChuanKou2\ChuanKou2\bin\Debug\ChuanKou2.exe.config
+E:\Projects\Temperature\ChuanKou2\ChuanKou2\obj\Debug\ChuanKou2.exe
+E:\Projects\Temperature\ChuanKou2\ChuanKou2\obj\Debug\ChuanKou2.pdb
+E:\Projects\Temperature\ChuanKou2\ChuanKou2\bin\Debug\ChuanKou2.exe
+E:\Projects\Temperature\ChuanKou2\ChuanKou2\bin\Debug\ChuanKou2.pdb
+E:\Projects\Temperature\ChuanKou2\ChuanKou2\obj\Debug\ChuanKou2.csprojResolveAssemblyReference.cache
+E:\Projects\Temperature\ChuanKou2\ChuanKou2\obj\Debug\ChuanKou2.Form1.resources
+E:\Projects\Temperature\ChuanKou2\ChuanKou2\obj\Debug\ChuanKou2.Properties.Resources.resources
+E:\Projects\Temperature\ChuanKou2\ChuanKou2\obj\Debug\ChuanKou2.csproj.GenerateResource.Cache
